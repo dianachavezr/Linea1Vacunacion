@@ -121,7 +121,7 @@ const Tablavacunacion =()=> {
     <div className="barras">
 
  
-    <button className="registropaciente" type="submit"><a href="registrovacuna" style={{textDecoration: 'none', color: "white"}}>Nuevo registro vacunación</a></button>
+    <button className="registropaciente" type="submit"><NavLink to="/registrovacuna" style={{textDecoration: 'none', color: "white"}}>Nuevo registro vacunación</NavLink></button>
    
 
     
