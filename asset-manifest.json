@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Linea1Vacunacion/static/css/main.a8ac14a9.chunk.css",
+    "main.js": "/Linea1Vacunacion/static/js/main.67bfda6e.chunk.js",
+    "main.js.map": "/Linea1Vacunacion/static/js/main.67bfda6e.chunk.js.map",
+    "runtime-main.js": "/Linea1Vacunacion/static/js/runtime-main.18689f0e.js",
+    "runtime-main.js.map": "/Linea1Vacunacion/static/js/runtime-main.18689f0e.js.map",
+    "static/js/2.495dfe41.chunk.js": "/Linea1Vacunacion/static/js/2.495dfe41.chunk.js",
+    "static/js/2.495dfe41.chunk.js.map": "/Linea1Vacunacion/static/js/2.495dfe41.chunk.js.map",
+    "static/js/3.81b2e201.chunk.js": "/Linea1Vacunacion/static/js/3.81b2e201.chunk.js",
+    "static/js/3.81b2e201.chunk.js.map": "/Linea1Vacunacion/static/js/3.81b2e201.chunk.js.map",
+    "index.html": "/Linea1Vacunacion/index.html",
+    "static/css/main.a8ac14a9.chunk.css.map": "/Linea1Vacunacion/static/css/main.a8ac14a9.chunk.css.map",
+    "static/js/2.495dfe41.chunk.js.LICENSE.txt": "/Linea1Vacunacion/static/js/2.495dfe41.chunk.js.LICENSE.txt",
+    "static/media/cajadashboard.css": "/Linea1Vacunacion/static/media/bannerDashboard.856f0d4a.png",
+    "static/media/cajapaciente.css": "/Linea1Vacunacion/static/media/buscando.16bef51b.png",
+    "static/media/cajavacunacion.css": "/Linea1Vacunacion/static/media/bannerVacunacion.95e8f138.png",
+    "static/media/cerrar-sesion.4cdf49aa.png": "/Linea1Vacunacion/static/media/cerrar-sesion.4cdf49aa.png",
+    "static/media/error404.cac6c705.jpg": "/Linea1Vacunacion/static/media/error404.cac6c705.jpg",
+    "static/media/registropaciente.css": "/Linea1Vacunacion/static/media/fondoregispaciente.afd03af8.jpg",
+    "static/media/registrovacuna.css": "/Linea1Vacunacion/static/media/fondoregisvacuna.16a37fdb.jpg",
+    "static/media/hogar.c8a20f92.png": "/Linea1Vacunacion/static/media/hogar.c8a20f92.png",
+    "static/media/login_image.b2d18366.png": "/Linea1Vacunacion/static/media/login_image.b2d18366.png",
+    "static/media/logo-forja.898a07f3.png": "/Linea1Vacunacion/static/media/logo-forja.898a07f3.png",
+    "static/media/logoforja.e77713b4.png": "/Linea1Vacunacion/static/media/logoforja.e77713b4.png",
+    "static/media/paciente.1c3b8871.png": "/Linea1Vacunacion/static/media/paciente.1c3b8871.png",
+    "static/media/usuario-de-perfil.733ccd66.png": "/Linea1Vacunacion/static/media/usuario-de-perfil.733ccd66.png",
+    "static/media/vacunacion.9c7f0cdf.png": "/Linea1Vacunacion/static/media/vacunacion.9c7f0cdf.png",
+    "static/media/ver.558ae501.png": "/Linea1Vacunacion/static/media/ver.558ae501.png",
+    "static/media/cardviewdashboard.css": "/Linea1Vacunacion/static/media/view_paciente.f95a202b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18689f0e.js",
+    "static/js/2.495dfe41.chunk.js",
+    "static/css/main.a8ac14a9.chunk.css",
+    "static/js/main.67bfda6e.chunk.js"
+  ]
+}
